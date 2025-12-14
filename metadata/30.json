@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #30",
+  "description": "Proof of listening to \"My Expense\" by Evan Honer, Cameron Whitcomb on 2025-12-14",
+  "image": "https://i.scdn.co/image/ab67616d0000b273a3f33117f93c8987c784715b",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "My Expense"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Evan Honer, Cameron Whitcomb"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-14"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 30
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
