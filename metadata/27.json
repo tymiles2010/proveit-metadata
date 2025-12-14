@@ -1,0 +1,27 @@
+{
+  "name": "ProveIt Badge #27",
+  "description": "Proof of listening to \"Cello Suite No. 6 in D Major, BWV 1012: III. Courante\" by Johann Sebastian Bach, Yo-Yo Ma on 2025-12-14",
+  "image": "https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Cello Suite No. 6 in D Major, BWV 1012: III. Courante"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Johann Sebastian Bach, Yo-Yo Ma"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-14"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 27
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    }
+  ]
+}
