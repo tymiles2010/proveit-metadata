@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #31",
+  "description": "Proof of listening to \"Just In Case\" by Morgan Wallen on 2025-12-14",
+  "image": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Just In Case"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Morgan Wallen"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-14"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 31
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
