@@ -1,0 +1,23 @@
+{
+  "name": "ProveIt Badge #20",
+  "description": "Proof of listening to \"Cello Suite No. 2 in D Minor, BWV 1008: IV. Sarabande\" by Johann Sebastian Bach, Yo-Yo Ma on 2025-12-14",
+  "image": "https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Cello Suite No. 2 in D Minor, BWV 1008: IV. Sarabande"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Johann Sebastian Bach, Yo-Yo Ma"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-14"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 20
+    }
+  ]
+}
