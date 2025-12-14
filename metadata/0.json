@@ -1,0 +1,23 @@
+{
+  "name": "ProveIt Badge #0",
+  "description": "Proof of listening to \"Unaccompanied Cello Suite No. 1 in G Major, BWV 1007: I. Prélude\" by Johann Sebastian Bach, Yo-Yo Ma on 2025-12-14",
+  "image": "https://i.scdn.co/image/ab67616d0000b273b0879119cf4839fa7fb232da",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Unaccompanied Cello Suite No. 1 in G Major, BWV 1007: I. Prélude"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Johann Sebastian Bach, Yo-Yo Ma"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-14"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 0
+    }
+  ]
+}
