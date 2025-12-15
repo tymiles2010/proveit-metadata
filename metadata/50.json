@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #50",
+  "description": "Proof of listening to \"Cello Suite No. 1 in G Major, BWV 1007: II. Allemande\" by Johann Sebastian Bach, Yo-Yo Ma on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b273cbb64bd416bb225456100bbc",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Cello Suite No. 1 in G Major, BWV 1007: II. Allemande"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Johann Sebastian Bach, Yo-Yo Ma"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 50
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
