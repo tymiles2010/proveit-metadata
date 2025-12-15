@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #36",
+  "description": "Proof of listening to \"Good Riddance (Time of Your Life)\" by Green Day on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Good Riddance (Time of Your Life)"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Green Day"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 36
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
