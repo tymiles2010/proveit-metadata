@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #46",
+  "description": "Proof of listening to \"For the First Time\" by The Script on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b273888241dbe5fdf3de9cb3d12f",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "For the First Time"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "The Script"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 46
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
