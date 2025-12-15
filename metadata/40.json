@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #40",
+  "description": "Proof of listening to \"Let Her Cry\" by Hootie & The Blowfish on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b273820d2376b2fb84aa99823903",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Let Her Cry"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Hootie & The Blowfish"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 40
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
