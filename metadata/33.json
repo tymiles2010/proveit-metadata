@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #33",
+  "description": "Proof of listening to \"Drops of Jupiter (Tell Me)\" by Train on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b2731a0278d4109c0f974821aa33",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Drops of Jupiter (Tell Me)"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Train"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 33
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
