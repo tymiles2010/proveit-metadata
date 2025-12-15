@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #38",
+  "description": "Proof of listening to \"Far Away\" by Nickelback on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b27307fb7d8037f3962394c493ca",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Far Away"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Nickelback"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 38
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
