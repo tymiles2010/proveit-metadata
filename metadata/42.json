@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #42",
+  "description": "Proof of listening to \"I'm On Fire\" by Bruce Springsteen on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "I'm On Fire"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Bruce Springsteen"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 42
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
