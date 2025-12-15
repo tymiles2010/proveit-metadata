@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #54",
+  "description": "Proof of listening to \"Cello Suite No. 1 in G Major, BWV 1007: VI. Gigue\" by Johann Sebastian Bach, Yo-Yo Ma on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Cello Suite No. 1 in G Major, BWV 1007: VI. Gigue"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Johann Sebastian Bach, Yo-Yo Ma"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 54
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
