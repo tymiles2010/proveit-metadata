@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #34",
+  "description": "Proof of listening to \"You Found Me\" by The Fray on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b27392b32435efed601fc8f1045d",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "You Found Me"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "The Fray"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 34
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
