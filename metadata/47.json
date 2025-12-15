@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #47",
+  "description": "Proof of listening to \"Drive\" by Incubus on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Drive"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Incubus"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 47
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
