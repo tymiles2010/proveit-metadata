@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #32",
+  "description": "Proof of listening to \"Coal\" by Dylan Gossett on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b273636d947e15f948e46897f3ce",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Coal"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Dylan Gossett"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 32
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
