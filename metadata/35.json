@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #35",
+  "description": "Proof of listening to \"Hey There Delilah\" by Plain White T's on 2025-12-15",
+  "image": "https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Hey There Delilah"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Plain White T's"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-15"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 35
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
