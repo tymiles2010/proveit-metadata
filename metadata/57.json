@@ -1,0 +1,31 @@
+{
+  "name": "ProveIt Badge #57",
+  "description": "Proof of listening to \"Memories\" by Kidz Bop Kids on 2025-12-16",
+  "image": "https://i.scdn.co/image/ab67616d0000b27330fa390d61b3d1d05aabe1fa",
+  "attributes": [
+    {
+      "trait_type": "Song",
+      "value": "Memories"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Kidz Bop Kids"
+    },
+    {
+      "trait_type": "Date Listened",
+      "value": "2025-12-16"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 57
+    },
+    {
+      "trait_type": "Proof Mode",
+      "value": "Strict (multi-session)"
+    },
+    {
+      "trait_type": "Type",
+      "value": "track"
+    }
+  ]
+}
