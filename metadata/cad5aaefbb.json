@@ -1,0 +1,27 @@
+{
+  "name": "prove.it: Man I Need",
+  "description": "Immutable proof of 90%+ completion of \"Man I Need\" by Olivia Dean on 2025-12-14T18:34:59.000Z. Soulbound via prove.it on Base.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/cad5aaefbb.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "Man I Need"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Olivia Dean"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-14T18:34:59.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "prove.it"
+    }
+  ]
+}
