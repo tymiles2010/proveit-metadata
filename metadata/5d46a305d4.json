@@ -1,0 +1,23 @@
+{
+  "name": "prove.it: Hey There Delilah",
+  "description": "Proof of 90%+ completion of \"Hey There Delilah\" by Plain White T's on 2025-12-15T04:00:18.000Z. Soulbound on Base.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/5d46a305d4.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "Hey There Delilah"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Plain White T's"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-15T04:00:18.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
