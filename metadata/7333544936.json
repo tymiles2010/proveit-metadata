@@ -1,0 +1,27 @@
+{
+  "name": "prove.it: My Expense",
+  "description": "Immutable proof of 90%+ completion of \"My Expense\" by Evan Honer on 2025-12-14T18:31:58.000Z. Soulbound via prove.it on Base.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/7333544936.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "My Expense"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Evan Honer"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-14T18:31:58.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "prove.it"
+    }
+  ]
+}
