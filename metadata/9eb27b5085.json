@@ -1,0 +1,23 @@
+{
+  "name": "prove.it: Landslide",
+  "description": "Proof of 90%+ completion of \"Landslide\" by Fleetwood Mac on 2025-12-15T03:54:25.000Z. Soulbound on Base.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/9eb27b5085.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "Landslide"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Fleetwood Mac"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-15T03:54:25.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
