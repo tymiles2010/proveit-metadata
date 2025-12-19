@@ -1,0 +1,23 @@
+{
+  "name": "prove.it: Where the Wild Things Are",
+  "description": "Proof of 90%+ completion of \"Where the Wild Things Are\" by Luke Combs on 2025-12-14T23:15:58.000Z. Soulbound on Base via prove.it.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/de0b2e0fb7.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "Where the Wild Things Are"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Luke Combs"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-14T23:15:58.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
