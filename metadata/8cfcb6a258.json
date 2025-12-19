@@ -1,0 +1,23 @@
+{
+  "name": "prove.it: 23",
+  "description": "Proof of 90%+ completion of \"23\" by Chayce Beckham on 2025-12-14T23:25:37.000Z. Soulbound on Base via prove.it.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/8cfcb6a258.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "23"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Chayce Beckham"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-14T23:25:37.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
