@@ -1,0 +1,27 @@
+{
+  "name": "prove.it: girl you're taking home",
+  "description": "Immutable proof of 90%+ completion of \"girl you're taking home\" by Ella Langley on 2025-12-14T18:37:43.000Z. Soulbound via prove.it on Base.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/8c3b630313.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "girl you're taking home"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Ella Langley"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-14T18:37:43.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "prove.it"
+    }
+  ]
+}
