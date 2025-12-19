@@ -1,0 +1,23 @@
+{
+  "name": "prove.it: You Found Me",
+  "description": "Proof of 90%+ completion of \"You Found Me\" by The Fray on 2025-12-15T03:49:20.000Z. Soulbound on Base.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/25f05813b0.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "You Found Me"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "The Fray"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-15T03:49:20.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
