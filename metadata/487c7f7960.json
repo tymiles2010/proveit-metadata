@@ -1,0 +1,27 @@
+{
+  "name": "prove.it: Better Me for You (Brown Eyes)",
+  "description": "Immutable proof of 90%+ completion of \"Better Me for You (Brown Eyes)\" by Max McNown on 2025-12-14T18:28:28.000Z. Soulbound via prove.it on Base.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/487c7f7960.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "Better Me for You (Brown Eyes)"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Max McNown"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-14T18:28:28.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "prove.it"
+    }
+  ]
+}
