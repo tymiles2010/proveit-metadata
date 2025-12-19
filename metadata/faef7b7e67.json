@@ -1,0 +1,23 @@
+{
+  "name": "prove.it: Drops of Jupiter (Tell Me)",
+  "description": "Proof of 90%+ completion of \"Drops of Jupiter (Tell Me)\" by Train on 2025-12-15T03:45:17.000Z. Soulbound on Base.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/faef7b7e67.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "Drops of Jupiter (Tell Me)"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Train"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-15T03:45:17.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
