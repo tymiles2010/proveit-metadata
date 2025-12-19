@@ -1,0 +1,12 @@
+{
+  "name": "prove.it Verified Listen",
+  "description": "Soulbound proof of 90%+ completion. Full per-token metadata at https://github.com/tymiles2010/proveit-metadata",
+  "image": "https://via.placeholder.com/500/000000/ffffff?text=prove.it+Verified",
+  "external_url": "https://github.com/tymiles2010/proveit-metadata",
+  "attributes": [
+    {
+      "trait_type": "Protocol",
+      "value": "prove.it"
+    }
+  ]
+}
