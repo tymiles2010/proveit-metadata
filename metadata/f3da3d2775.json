@@ -1,0 +1,23 @@
+{
+  "name": "prove.it: Just Like Johnny",
+  "description": "Proof of 90%+ completion of \"Just Like Johnny\" by Redferrin on 2025-12-14T23:09:10.000Z. Soulbound on Base via prove.it.",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/f3da3d2775.png",
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "Just Like Johnny"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Redferrin"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-14T23:09:10.000Z"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
