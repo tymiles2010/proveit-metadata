@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified #11",
+  "description": "Proof of 90%+ completion: Sammy Kershaw — Cadillac Style on 12/21/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/11.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Sammy Kershaw"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Cadillac Style"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/21/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
