@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #12",
-  "description": "Proof of 90%+ completion: Shaboozey — Vegas - A COLORS SHOW on 12/21/2025",
+  "description": "Proof of 90%+ completion: Tyler Hubbard — 5 Foot 9 on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/12.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Shaboozey"
+      "value": "Tyler Hubbard"
     },
     {
       "trait_type": "Track",
-      "value": "Vegas - A COLORS SHOW"
+      "value": "5 Foot 9"
     },
     {
       "trait_type": "Completion Date",
