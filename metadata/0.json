@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #0",
-  "description": "Proof of 90%+ completion: Shaboozey — Highway on 12/21/2025",
+  "description": "Proof of 90%+ completion: Luke Combs — Fast Car on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/0.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Shaboozey"
+      "value": "Luke Combs"
     },
     {
       "trait_type": "Track",
-      "value": "Highway"
+      "value": "Fast Car"
     },
     {
       "trait_type": "Completion Date",
