@@ -1,23 +1,23 @@
 {
-  "name": "ProveIt Badge #23",
-  "description": "Proof of listening to \"Cello Suite No. 3 in C Major, BWV 1009: I. Prélude\" by Johann Sebastian Bach, Yo-Yo Ma on 2025-12-14",
-  "image": "https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97",
+  "name": "prove.it Verified #23",
+  "description": "Proof of 90%+ completion: Ella Langley — weren't for the wind on 12/21/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/23.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Cello Suite No. 3 in C Major, BWV 1009: I. Prélude"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Johann Sebastian Bach, Yo-Yo Ma"
+      "value": "Ella Langley"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-14"
+      "trait_type": "Track",
+      "value": "weren't for the wind"
     },
     {
-      "trait_type": "Token ID",
-      "value": 23
+      "trait_type": "Completion Date",
+      "value": "12/21/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
