@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #1",
-  "description": "Proof of 90%+ completion: Tyler Hubbard — 5 Foot 9 on 12/21/2025",
+  "description": "Proof of 90%+ completion: Hozier — Take Me to Church on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/1.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Tyler Hubbard"
+      "value": "Hozier"
     },
     {
       "trait_type": "Track",
-      "value": "5 Foot 9"
+      "value": "Take Me to Church"
     },
     {
       "trait_type": "Completion Date",
