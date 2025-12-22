@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #3",
-  "description": "Proof of 90%+ completion: Noah Kahan — Passenger on 12/21/2025",
+  "description": "Proof of 90%+ completion: Zach Bryan — Condemned on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/3.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Noah Kahan"
+      "value": "Zach Bryan"
     },
     {
       "trait_type": "Track",
-      "value": "Passenger"
+      "value": "Condemned"
     },
     {
       "trait_type": "Completion Date",
