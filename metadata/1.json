@@ -1,23 +1,23 @@
 {
-  "name": "ProveIt Badge #1",
-  "description": "Proof of listening to \"Unaccompanied Cello Suite No. 1 in G Major, BWV 1007: I. Prélude\" by Johann Sebastian Bach, Yo-Yo Ma on 2025-12-14",
-  "image": "https://i.scdn.co/image/ab67616d0000b273b0879119cf4839fa7fb232da",
+  "name": "prove.it Verified #1",
+  "description": "Proof of 90%+ completion: Tyler Hubbard — 5 Foot 9 on 12/21/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/1.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Unaccompanied Cello Suite No. 1 in G Major, BWV 1007: I. Prélude"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Johann Sebastian Bach, Yo-Yo Ma"
+      "value": "Tyler Hubbard"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-14"
+      "trait_type": "Track",
+      "value": "5 Foot 9"
     },
     {
-      "trait_type": "Token ID",
-      "value": 1
+      "trait_type": "Completion Date",
+      "value": "12/21/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
