@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #48",
-  "description": "Proof of listening to \"Tiny Dancer\" by Elton John on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31",
+  "name": "prove.it Verified #48",
+  "description": "Proof of 90%+ completion: Evan Honer — My Expense on 12/23/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/48.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Tiny Dancer"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Elton John"
+      "value": "Evan Honer"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "My Expense"
     },
     {
-      "trait_type": "Token ID",
-      "value": 48
+      "trait_type": "Completion Date",
+      "value": "12/23/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
