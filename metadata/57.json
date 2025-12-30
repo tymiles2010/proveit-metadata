@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #57",
-  "description": "Proof of listening to \"Memories\" by Kidz Bop Kids on 2025-12-16",
-  "image": "https://i.scdn.co/image/ab67616d0000b27330fa390d61b3d1d05aabe1fa",
+  "name": "prove.it Verified #57",
+  "description": "Proof of 90%+ completion: SAINt JHN — 94 Bentley on 12/23/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/57.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Memories"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Kidz Bop Kids"
+      "value": "SAINt JHN"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-16"
+      "trait_type": "Track",
+      "value": "94 Bentley"
     },
     {
-      "trait_type": "Token ID",
-      "value": 57
+      "trait_type": "Completion Date",
+      "value": "12/23/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
