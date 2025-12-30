@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #41",
-  "description": "Proof of listening to \"Iris\" by The Goo Goo Dolls on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b273d54c4b12c9242bda37f4bb25",
+  "name": "prove.it Verified #41",
+  "description": "Proof of 90%+ completion: Iya Terra — Monterey Sunshine on 12/23/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/41.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Iris"
-    },
-    {
       "trait_type": "Artist",
-      "value": "The Goo Goo Dolls"
+      "value": "Iya Terra"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "Monterey Sunshine"
     },
     {
-      "trait_type": "Token ID",
-      "value": 41
+      "trait_type": "Completion Date",
+      "value": "12/23/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
