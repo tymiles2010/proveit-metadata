@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #11",
-  "description": "Proof of 90%+ completion: Avicii — The Nights on 12/21/2025",
+  "description": "Proof of 90%+ completion: Shaboozey — Vegas - A COLORS SHOW on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/11.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Avicii"
+      "value": "Shaboozey"
     },
     {
       "trait_type": "Track",
-      "value": "The Nights"
+      "value": "Vegas - A COLORS SHOW"
     },
     {
       "trait_type": "Completion Date",
