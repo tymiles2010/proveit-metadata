@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #44",
-  "description": "Proof of listening to \"Don't Stop Believin' (2024 Remaster)\" by Journey on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b27370b5c118e7ac6b8a457e81e8",
+  "name": "prove.it Verified #44",
+  "description": "Proof of 90%+ completion: Alex Warren — Ordinary on 12/23/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/44.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Don't Stop Believin' (2024 Remaster)"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Journey"
+      "value": "Alex Warren"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "Ordinary"
     },
     {
-      "trait_type": "Token ID",
-      "value": 44
+      "trait_type": "Completion Date",
+      "value": "12/23/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
