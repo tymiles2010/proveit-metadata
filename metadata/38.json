@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #38",
-  "description": "Proof of listening to \"Far Away\" by Nickelback on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b27307fb7d8037f3962394c493ca",
+  "name": "prove.it Verified #38",
+  "description": "Proof of 90%+ completion: NF — HAPPY on 12/22/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/38.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Far Away"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Nickelback"
+      "value": "NF"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "HAPPY"
     },
     {
-      "trait_type": "Token ID",
-      "value": 38
+      "trait_type": "Completion Date",
+      "value": "12/22/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
