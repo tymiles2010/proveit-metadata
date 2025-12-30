@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #21",
-  "description": "Proof of 90%+ completion: Shaboozey — Good News on 12/21/2025",
+  "description": "Proof of 90%+ completion: Morgan Wallen — I'm the Problem on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/21.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Shaboozey"
+      "value": "Morgan Wallen"
     },
     {
       "trait_type": "Track",
-      "value": "Good News"
+      "value": "I'm the Problem"
     },
     {
       "trait_type": "Completion Date",
