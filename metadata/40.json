@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #40",
-  "description": "Proof of listening to \"Let Her Cry\" by Hootie & The Blowfish on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b273820d2376b2fb84aa99823903",
+  "name": "prove.it Verified #40",
+  "description": "Proof of 90%+ completion: Jonah Kagen — God Needs The Devil on 12/22/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/40.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Let Her Cry"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Hootie & The Blowfish"
+      "value": "Jonah Kagen"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "God Needs The Devil"
     },
     {
-      "trait_type": "Token ID",
-      "value": 40
+      "trait_type": "Completion Date",
+      "value": "12/22/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
