@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #46",
-  "description": "Proof of listening to \"For the First Time\" by The Script on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b273888241dbe5fdf3de9cb3d12f",
+  "name": "prove.it Verified #46",
+  "description": "Proof of 90%+ completion: Zach Bryan — I Remember Everything (feat. Kacey Musgraves) on 12/23/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/46.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "For the First Time"
-    },
-    {
       "trait_type": "Artist",
-      "value": "The Script"
+      "value": "Zach Bryan"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "I Remember Everything (feat. Kacey Musgraves)"
     },
     {
-      "trait_type": "Token ID",
-      "value": 46
+      "trait_type": "Completion Date",
+      "value": "12/23/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
