@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #4",
-  "description": "Proof of 90%+ completion: HUNTR/X — What It Sounds Like on 12/21/2025",
+  "description": "Proof of 90%+ completion: Morgan Wallen — Just in Case on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/4.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "HUNTR/X"
+      "value": "Morgan Wallen"
     },
     {
       "trait_type": "Track",
-      "value": "What It Sounds Like"
+      "value": "Just in Case"
     },
     {
       "trait_type": "Completion Date",
