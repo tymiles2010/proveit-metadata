@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #45",
-  "description": "Proof of listening to \"Under the Bridge\" by Red Hot Chili Peppers on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70",
+  "name": "prove.it Verified #45",
+  "description": "Proof of 90%+ completion: Shaboozey — Highway on 12/23/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/45.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Under the Bridge"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Red Hot Chili Peppers"
+      "value": "Shaboozey"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "Highway"
     },
     {
-      "trait_type": "Token ID",
-      "value": 45
+      "trait_type": "Completion Date",
+      "value": "12/23/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
