@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #7",
-  "description": "Proof of 90%+ completion: AWOLNATION — Sail on 12/21/2025",
+  "description": "Proof of 90%+ completion: Sam Barber — Thought of You on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/7.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "AWOLNATION"
+      "value": "Sam Barber"
     },
     {
       "trait_type": "Track",
-      "value": "Sail"
+      "value": "Thought of You"
     },
     {
       "trait_type": "Completion Date",
