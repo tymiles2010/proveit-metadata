@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #37",
-  "description": "Proof of listening to \"Free Fallin'\" by Tom Petty on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
+  "name": "prove.it Verified #37",
+  "description": "Proof of 90%+ completion: Cameron Whitcomb — The Hard Way on 12/22/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/37.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Free Fallin'"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Tom Petty"
+      "value": "Cameron Whitcomb"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "The Hard Way"
     },
     {
-      "trait_type": "Token ID",
-      "value": 37
+      "trait_type": "Completion Date",
+      "value": "12/22/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
