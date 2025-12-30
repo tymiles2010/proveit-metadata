@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified #62",
+  "description": "Proof of 90%+ completion: Hayden Blount — Heaven On Earth on 12/26/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/62.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Hayden Blount"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Heaven On Earth"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/26/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
