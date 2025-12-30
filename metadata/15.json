@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #15",
-  "description": "Proof of 90%+ completion: Hozier — Take Me to Church on 12/21/2025",
+  "description": "Proof of 90%+ completion: Noah Kahan — Passenger on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/15.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Hozier"
+      "value": "Noah Kahan"
     },
     {
       "trait_type": "Track",
-      "value": "Take Me to Church"
+      "value": "Passenger"
     },
     {
       "trait_type": "Completion Date",
