@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #17",
-  "description": "Proof of 90%+ completion: Zach Bryan — Condemned on 12/21/2025",
+  "description": "Proof of 90%+ completion: Hozier — Take Me to Church on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/17.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Zach Bryan"
+      "value": "Hozier"
     },
     {
       "trait_type": "Track",
-      "value": "Condemned"
+      "value": "Take Me to Church"
     },
     {
       "trait_type": "Completion Date",
