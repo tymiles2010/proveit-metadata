@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #39",
-  "description": "Proof of listening to \"3AM\" by Matchbox Twenty on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b27323dbfb8b3b1be429587f5380",
+  "name": "prove.it Verified #39",
+  "description": "Proof of 90%+ completion: Noah Kahan — Part of Me on 12/22/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/39.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "3AM"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Matchbox Twenty"
+      "value": "Noah Kahan"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "Part of Me"
     },
     {
-      "trait_type": "Token ID",
-      "value": 39
+      "trait_type": "Completion Date",
+      "value": "12/22/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
