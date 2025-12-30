@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #35",
-  "description": "Proof of listening to \"Hey There Delilah\" by Plain White T's on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081",
+  "name": "prove.it Verified #35",
+  "description": "Proof of 90%+ completion: Mumford & Sons — Prizefighter on 12/22/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/d21eef8f9c242a6fa57fa455ea681424.jpg",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "Hey There Delilah"
-    },
-    {
       "trait_type": "Artist",
-      "value": "Plain White T's"
+      "value": "Mumford & Sons"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "Prizefighter"
     },
     {
-      "trait_type": "Token ID",
-      "value": 35
+      "trait_type": "Completion Date",
+      "value": "12/22/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
