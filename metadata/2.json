@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #2",
-  "description": "Proof of 90%+ completion: Evan Honer — Too Far Gone on 12/21/2025",
+  "description": "Proof of 90%+ completion: Sam Barber — Music for the Soul on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/2.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Evan Honer"
+      "value": "Sam Barber"
     },
     {
       "trait_type": "Track",
-      "value": "Too Far Gone"
+      "value": "Music for the Soul"
     },
     {
       "trait_type": "Completion Date",
