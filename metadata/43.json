@@ -1,31 +1,23 @@
 {
-  "name": "ProveIt Badge #43",
-  "description": "Proof of listening to \"You Get What You Give\" by New Radicals on 2025-12-15",
-  "image": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
+  "name": "prove.it Verified #43",
+  "description": "Proof of 90%+ completion: HONESTAV — Growin' Pains on 12/23/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/43.png",
   "attributes": [
     {
-      "trait_type": "Song",
-      "value": "You Get What You Give"
-    },
-    {
       "trait_type": "Artist",
-      "value": "New Radicals"
+      "value": "HONESTAV"
     },
     {
-      "trait_type": "Date Listened",
-      "value": "2025-12-15"
+      "trait_type": "Track",
+      "value": "Growin' Pains"
     },
     {
-      "trait_type": "Token ID",
-      "value": 43
+      "trait_type": "Completion Date",
+      "value": "12/23/2025"
     },
     {
-      "trait_type": "Proof Mode",
-      "value": "Strict (multi-session)"
-    },
-    {
-      "trait_type": "Type",
-      "value": "track"
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
     }
   ]
 }
