@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified #66",
+  "description": "Proof of 90%+ completion: Alex Warren — Ordinary on 12/28/2025",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/66.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Alex Warren"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Ordinary"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/28/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
