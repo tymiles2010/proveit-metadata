@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #22",
-  "description": "Proof of 90%+ completion: Luke Combs — She Got the Best of Me on 12/21/2025",
+  "description": "Proof of 90%+ completion: Shaboozey — Good News on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/22.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Luke Combs"
+      "value": "Shaboozey"
     },
     {
       "trait_type": "Track",
-      "value": "She Got the Best of Me"
+      "value": "Good News"
     },
     {
       "trait_type": "Completion Date",
