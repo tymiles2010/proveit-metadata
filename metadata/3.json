@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #3",
-  "description": "Proof of 90%+ completion: Morgan Wallen — Just in Case on 12/21/2025",
+  "description": "Proof of 90%+ completion: Evan Honer — Too Far Gone on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/3.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Morgan Wallen"
+      "value": "Evan Honer"
     },
     {
       "trait_type": "Track",
-      "value": "Just in Case"
+      "value": "Too Far Gone"
     },
     {
       "trait_type": "Completion Date",
