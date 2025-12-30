@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified #12",
-  "description": "Proof of 90%+ completion: Tyler Hubbard — 5 Foot 9 on 12/21/2025",
+  "description": "Proof of 90%+ completion: Avicii — The Nights on 12/21/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/12.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Tyler Hubbard"
+      "value": "Avicii"
     },
     {
       "trait_type": "Track",
-      "value": "5 Foot 9"
+      "value": "The Nights"
     },
     {
       "trait_type": "Completion Date",
