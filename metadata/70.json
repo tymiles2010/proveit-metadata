@@ -1,19 +1,19 @@
 {
   "name": "prove.it Verified #70",
-  "description": "Proof of 90%+ completion: Teddy Swims — Don't Stop Believin' on 12/29/2025",
+  "description": "Proof of 90%+ completion: Zach Bryan — Motorcycle Drive By on 12/31/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/70.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Teddy Swims"
+      "value": "Zach Bryan"
     },
     {
       "trait_type": "Track",
-      "value": "Don't Stop Believin'"
+      "value": "Motorcycle Drive By"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/29/2025"
+      "value": "12/31/2025"
     },
     {
       "trait_type": "Verification",
