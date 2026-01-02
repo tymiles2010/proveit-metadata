@@ -1,19 +1,19 @@
 {
   "name": "prove.it Verified #2",
-  "description": "Proof of 90%+ completion: Sam Barber — Music for the Soul on 12/21/2025",
+  "description": "Proof of 90%+ completion: HONESTAV — Stuck On The Floor on 12/30/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/2.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Sam Barber"
+      "value": "HONESTAV"
     },
     {
       "trait_type": "Track",
-      "value": "Music for the Soul"
+      "value": "Stuck On The Floor"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/21/2025"
+      "value": "12/30/2025"
     },
     {
       "trait_type": "Verification",
