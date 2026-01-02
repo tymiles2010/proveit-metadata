@@ -1,19 +1,19 @@
 {
   "name": "prove.it Verified #20",
-  "description": "Proof of 90%+ completion: Hoobastank — The Reason on 12/21/2025",
+  "description": "Proof of 90%+ completion: Young Dolph — Major (feat. Key Glock) on 12/30/2025",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/20.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Hoobastank"
+      "value": "Young Dolph"
     },
     {
       "trait_type": "Track",
-      "value": "The Reason"
+      "value": "Major (feat. Key Glock)"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/21/2025"
+      "value": "12/30/2025"
     },
     {
       "trait_type": "Verification",
