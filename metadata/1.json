@@ -1,6 +1,6 @@
 {
   "name": "prove.it Verified #1",
-  "description": "Proof of 90%+ completion: KIDZ BOP Kids — Memories on 1/2/2026",
+  "description": "Proof of 90%+ completion: KIDZ BOP Kids — Dance Monkey on 1/2/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/1.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Track",
-      "value": "Memories"
+      "value": "Dance Monkey"
     },
     {
       "trait_type": "Completion Date",
