@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Michael Marcagi — Scared To Start on 12/31/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/4dd15a78ee7490a7fba96b001332d5db.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Michael Marcagi"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Scared To Start"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/31/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
