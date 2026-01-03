@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Myles Smith — Sweet Love on 12/31/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/f775719d32c869c6b41749d7501d60e6.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Myles Smith"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Sweet Love"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/31/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
