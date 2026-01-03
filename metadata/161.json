@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: KIDZ BOP Kids — Dance Monkey on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/8386a1fdbb4a48e20a3c51317fc30e9f.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "KIDZ BOP Kids"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Dance Monkey"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
