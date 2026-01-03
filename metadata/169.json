@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Super Simple Songs — Twinkle Twinkle Little Star on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/7227baf018eff70c0c0b75e064913cb2.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Super Simple Songs"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Twinkle Twinkle Little Star"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
