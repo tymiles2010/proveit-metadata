@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #52",
-  "description": "Proof of 90%+ completion: Luke Combs — Fast Car on 12/31/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/52.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Blake Whiten — Rollin' Stone on 12/23/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/bbe2cebad6442623c3e75cc890f25607.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Luke Combs"
+      "value": "Blake Whiten"
     },
     {
       "trait_type": "Track",
-      "value": "Fast Car"
+      "value": "Rollin' Stone"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "12/23/2025"
     },
     {
       "trait_type": "Verification",
