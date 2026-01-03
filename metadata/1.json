@@ -1,15 +1,15 @@
 {
-  "name": "prove.it Verified #1",
-  "description": "Proof of 90%+ completion: Drake — NOKIA on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/aaf695fb9eaa17ec26d3228789dd5ff4.jpg",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Marshmello — Happier on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/dba9c34146d9a7859a0fc6887693ceea.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Drake"
+      "value": "Marshmello"
     },
     {
       "trait_type": "Track",
-      "value": "NOKIA"
+      "value": "Happier"
     },
     {
       "trait_type": "Completion Date",
