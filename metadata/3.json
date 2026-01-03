@@ -1,15 +1,15 @@
 {
-  "name": "prove.it Verified #3",
-  "description": "Proof of 90%+ completion: Super Simple Songs — Twinkle Twinkle Little Star on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/7227baf018eff70c0c0b75e064913cb2.jpg",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Marshmello — El Merengue on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/fd049ac4ab67fe3bc35da47635abf091.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Super Simple Songs"
+      "value": "Marshmello"
     },
     {
       "trait_type": "Track",
-      "value": "Twinkle Twinkle Little Star"
+      "value": "El Merengue"
     },
     {
       "trait_type": "Completion Date",
