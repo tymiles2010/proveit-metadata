@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Jonah Kagen — God Needs The Devil on 12/29/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/64f09d0f4799a667f031ea071503ff05.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Jonah Kagen"
+    },
+    {
+      "trait_type": "Track",
+      "value": "God Needs The Devil"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/29/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
