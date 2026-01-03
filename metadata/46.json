@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #46",
-  "description": "Proof of 90%+ completion: James Cousins — Dead on the Line on 12/31/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/46.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: David Kushner — Bittersweet Dreams on 12/22/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/bef856be94b44503fb653e5664aa261f.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "James Cousins"
+      "value": "David Kushner"
     },
     {
       "trait_type": "Track",
-      "value": "Dead on the Line"
+      "value": "Bittersweet Dreams"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "12/22/2025"
     },
     {
       "trait_type": "Verification",
