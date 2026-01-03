@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Josh Meloy — Porch Light on 12/31/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/e9271ab3234e4efba998c841a17d80c7.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Josh Meloy"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Porch Light"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/31/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
