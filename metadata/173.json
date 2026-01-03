@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Marshmello — Silence on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/da338fdd8d3b70176c7f8b2ed7bb1873.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Marshmello"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Silence"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
