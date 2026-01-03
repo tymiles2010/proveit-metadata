@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Drake — Headlines on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/974cb36ee0d351b113915fb0c90bf3ba.gif",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Drake"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Headlines"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
