@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Morgan Wallen — I'm the Problem on 12/30/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/f216db6562a5d6af7be3c3f433125999.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Morgan Wallen"
+    },
+    {
+      "trait_type": "Track",
+      "value": "I'm the Problem"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/30/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
