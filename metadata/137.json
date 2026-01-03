@@ -1,15 +1,15 @@
 {
   "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Luke Combs — Fast Car on 12/31/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/22f361a4f203ec9cb25628ac260a1c0b.png",
+  "description": "Proof of 90%+ completion: Waylon Wyatt — Arkansas Diamond on 12/31/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/4a3c74e4d8c97336416bcd1bb12a8b36.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Luke Combs"
+      "value": "Waylon Wyatt"
     },
     {
       "trait_type": "Track",
-      "value": "Fast Car"
+      "value": "Arkansas Diamond"
     },
     {
       "trait_type": "Completion Date",
