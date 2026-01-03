@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Obscurest Vinyl — Quit Jizzin’ in the Hot Tub (White Hot Rage) on 12/30/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/d24cf728944b5ea8390260bc328284b3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Obscurest Vinyl"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Quit Jizzin’ in the Hot Tub (White Hot Rage)"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/30/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
