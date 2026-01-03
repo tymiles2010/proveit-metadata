@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Sam Barber — Streetlight on 12/31/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/0048792c0a008a5e7c89aa38de5d9277.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Sam Barber"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Streetlight"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/31/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
