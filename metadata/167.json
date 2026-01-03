@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Drake — NOKIA on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/aaf695fb9eaa17ec26d3228789dd5ff4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Drake"
+    },
+    {
+      "trait_type": "Track",
+      "value": "NOKIA"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
