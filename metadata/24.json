@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #24",
-  "description": "Proof of 90%+ completion: Shaboozey — Good News on 12/30/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/24.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Tyler Hubbard — 5 Foot 9 on 12/21/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/a347cdcbccf9a07a145e3d5fb809aa21.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Shaboozey"
+      "value": "Tyler Hubbard"
     },
     {
       "trait_type": "Track",
-      "value": "Good News"
+      "value": "5 Foot 9"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/30/2025"
+      "value": "12/21/2025"
     },
     {
       "trait_type": "Verification",
