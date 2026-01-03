@@ -1,15 +1,15 @@
 {
   "name": "prove.it #7",
-  "description": "Proof of 90%+ completion: Glass Animals — Heat Waves on 1/3/2026",
+  "description": "Proof of 90%+ completion: Alex Warren — Troubled Waters on 1/3/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/7/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Glass Animals"
+      "value": "Alex Warren"
     },
     {
       "trait_type": "Track",
-      "value": "Heat Waves"
+      "value": "Troubled Waters"
     },
     {
       "trait_type": "Completion Date",
