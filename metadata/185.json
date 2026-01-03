@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Blake Whiten — Rollin' Stone on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/bbe2cebad6442623c3e75cc890f25607.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Blake Whiten"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Rollin' Stone"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
