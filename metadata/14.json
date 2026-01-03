@@ -1,19 +1,19 @@
 {
   "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Imagine Dragons — Thunder on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/8c77e9f509c4dd3bca8d3ac6b5344ce5.png",
+  "description": "Proof of 90%+ completion: Hoobastank — The Reason on 12/21/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/0fca8b1206b3b76222d49f19946e2b65.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Imagine Dragons"
+      "value": "Hoobastank"
     },
     {
       "trait_type": "Track",
-      "value": "Thunder"
+      "value": "The Reason"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "12/21/2025"
     },
     {
       "trait_type": "Verification",
