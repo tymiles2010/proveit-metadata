@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #70",
-  "description": "Proof of 90%+ completion: Zach Bryan — Motorcycle Drive By on 12/31/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/70.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Jonah Kagen — God Needs The Devil on 12/26/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/64f09d0f4799a667f031ea071503ff05.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Zach Bryan"
+      "value": "Jonah Kagen"
     },
     {
       "trait_type": "Track",
-      "value": "Motorcycle Drive By"
+      "value": "God Needs The Devil"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "12/26/2025"
     },
     {
       "trait_type": "Verification",
