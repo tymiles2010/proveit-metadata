@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Josiah Queen — My Promised Land on 12/31/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/52d0d0d7388cff47dee3dd10c1f45f5d.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Josiah Queen"
+    },
+    {
+      "trait_type": "Track",
+      "value": "My Promised Land"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/31/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
