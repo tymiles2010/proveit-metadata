@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #27",
-  "description": "Proof of 90%+ completion: Nathan Evans — The Last Shanty on 12/30/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/27.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Hozier — Take Me to Church on 12/21/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/edc416f16adf29c3097deade4acf8390.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Nathan Evans"
+      "value": "Hozier"
     },
     {
       "trait_type": "Track",
-      "value": "The Last Shanty"
+      "value": "Take Me to Church"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/30/2025"
+      "value": "12/21/2025"
     },
     {
       "trait_type": "Verification",
