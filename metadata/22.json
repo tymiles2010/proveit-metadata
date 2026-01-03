@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #22",
-  "description": "Proof of 90%+ completion: HONESTAV — Both Dead on 12/30/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/22.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Avicii — The Nights on 12/21/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/c1e4c4a2fb354132c100b3f654e6f34d.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "HONESTAV"
+      "value": "Avicii"
     },
     {
       "trait_type": "Track",
-      "value": "Both Dead"
+      "value": "The Nights"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/30/2025"
+      "value": "12/21/2025"
     },
     {
       "trait_type": "Verification",
