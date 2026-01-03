@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Josiah Queen — Dusty Bibles on 12/30/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/8250033614333e234ca27f566d789d50.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Josiah Queen"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Dusty Bibles"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/30/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
