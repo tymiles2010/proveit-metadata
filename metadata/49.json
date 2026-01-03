@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #49",
-  "description": "Proof of 90%+ completion: Evan Honer — My Expense on 12/31/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/49.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Noah Kahan — Part of Me on 12/22/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/e32340aa68bbccb87183a9f79ab1dc3d.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Evan Honer"
+      "value": "Noah Kahan"
     },
     {
       "trait_type": "Track",
-      "value": "My Expense"
+      "value": "Part of Me"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "12/22/2025"
     },
     {
       "trait_type": "Verification",
