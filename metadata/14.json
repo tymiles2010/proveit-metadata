@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #14",
-  "description": "Proof of 90%+ completion: Adrien Nunez — LOW ROAD (feat. Avery Anna) on 12/30/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/14.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Imagine Dragons — Thunder on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/8c77e9f509c4dd3bca8d3ac6b5344ce5.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Adrien Nunez"
+      "value": "Imagine Dragons"
     },
     {
       "trait_type": "Track",
-      "value": "LOW ROAD (feat. Avery Anna)"
+      "value": "Thunder"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/30/2025"
+      "value": "1/2/2026"
     },
     {
       "trait_type": "Verification",
