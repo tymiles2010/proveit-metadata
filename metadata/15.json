@@ -1,19 +1,19 @@
 {
   "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Imagine Dragons — Believer on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/8c77e9f509c4dd3bca8d3ac6b5344ce5.png",
+  "description": "Proof of 90%+ completion: Morgan Wallen — I'm the Problem on 12/21/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/f216db6562a5d6af7be3c3f433125999.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Imagine Dragons"
+      "value": "Morgan Wallen"
     },
     {
       "trait_type": "Track",
-      "value": "Believer"
+      "value": "I'm the Problem"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "12/21/2025"
     },
     {
       "trait_type": "Verification",
