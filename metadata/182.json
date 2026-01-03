@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Marshmello — Numb on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/e8b7d0eb39ed42e11d9d4c5e42293d74.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Marshmello"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Numb"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
