@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #61",
-  "description": "Proof of 90%+ completion: Morgan Wallen — Thinkin’ Bout Me on 12/31/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/61.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Noah Rinker — Red Bandana on 12/23/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/1c088f89e0ebafb69d96d2a96b3792bb.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Morgan Wallen"
+      "value": "Noah Rinker"
     },
     {
       "trait_type": "Track",
-      "value": "Thinkin’ Bout Me"
+      "value": "Red Bandana"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "12/23/2025"
     },
     {
       "trait_type": "Verification",
