@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #71",
-  "description": "Proof of 90%+ completion: Shaboozey — Let It Burn on 12/31/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/71.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Sam Barber — Man of the Year on 12/26/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/59cfa5c7eb85034ef2e7431d69a8e195.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Shaboozey"
+      "value": "Sam Barber"
     },
     {
       "trait_type": "Track",
-      "value": "Let It Burn"
+      "value": "Man of the Year"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "12/26/2025"
     },
     {
       "trait_type": "Verification",
