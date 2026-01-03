@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Drake — One Dance on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/99e7715edfbd4c4519e3483a1779d574.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Drake"
+    },
+    {
+      "trait_type": "Track",
+      "value": "One Dance"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
