@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Forrest Frank — NOTHING ELSE on 12/31/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/6f99e8ad4e5992597b7401ccdafda3c3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Forrest Frank"
+    },
+    {
+      "trait_type": "Track",
+      "value": "NOTHING ELSE"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/31/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
