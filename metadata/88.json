@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: HONESTAV — Stuck On The Floor on 12/30/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/c0d9165a1a33573600a2cc6015e43198.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "HONESTAV"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Stuck On The Floor"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/30/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
