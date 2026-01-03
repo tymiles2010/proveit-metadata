@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: GABBY'S DOLLHOUSE — Sprinkle Party on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/ed7680611fe022f45122fc1bdd6a107c.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "GABBY'S DOLLHOUSE"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Sprinkle Party"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
