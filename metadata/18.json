@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #18",
-  "description": "Proof of 90%+ completion: Young Dolph — Major (feat. Key Glock) on 12/30/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/18.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: AWOLNATION — Sail on 12/21/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/e422f67dbb98a959ba1f6bcbadb2439b.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Young Dolph"
+      "value": "AWOLNATION"
     },
     {
       "trait_type": "Track",
-      "value": "Major (feat. Key Glock)"
+      "value": "Sail"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/30/2025"
+      "value": "12/21/2025"
     },
     {
       "trait_type": "Verification",
