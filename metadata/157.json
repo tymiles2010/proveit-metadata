@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Bryan Martin — We Ride on 12/31/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/8a6328c1fd6b84c484479e9a88392901.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Bryan Martin"
+    },
+    {
+      "trait_type": "Track",
+      "value": "We Ride"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/31/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
