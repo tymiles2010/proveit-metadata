@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #29",
-  "description": "Proof of 90%+ completion: Sammy Kershaw — Third Rate Romance on 12/30/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/29.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Zach Bryan — Condemned on 12/21/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/449da6d7081bc736290090a02d384f22.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Sammy Kershaw"
+      "value": "Zach Bryan"
     },
     {
       "trait_type": "Track",
-      "value": "Third Rate Romance"
+      "value": "Condemned"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/30/2025"
+      "value": "12/21/2025"
     },
     {
       "trait_type": "Verification",
