@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: HUNTR/X — What It Sounds Like on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/33e43fc22006893e0cc1275a7d77b2d4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "HUNTR/X"
+    },
+    {
+      "trait_type": "Track",
+      "value": "What It Sounds Like"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
