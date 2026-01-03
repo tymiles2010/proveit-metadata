@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Drake — Not You Too (feat. Chris Brown) on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/e75cc42063c783b2efc46f0178530083.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Drake"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Not You Too (feat. Chris Brown)"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
