@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Hayden Blount — Heartbreaker on 12/30/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/8c25ff18c2466f4eb0607daaacd0cf08.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Hayden Blount"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Heartbreaker"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/30/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
