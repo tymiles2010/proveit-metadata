@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: That's What I Call Brainrot! — Trippin' Fat Kids at the YMCA on 12/30/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/d82b32acb2acd4b34ff76ddc3ba95dfa.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "That's What I Call Brainrot!"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Trippin' Fat Kids at the YMCA"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/30/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
