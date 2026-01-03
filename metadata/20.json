@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #20",
-  "description": "Proof of 90%+ completion: Young Dolph — Major (feat. Key Glock) on 12/30/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/20.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Sammy Kershaw — Cadillac Style on 12/21/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/fe28d4803ad34dbcd2085f9116fb8ab7.jpg",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Young Dolph"
+      "value": "Sammy Kershaw"
     },
     {
       "trait_type": "Track",
-      "value": "Major (feat. Key Glock)"
+      "value": "Cadillac Style"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/30/2025"
+      "value": "12/21/2025"
     },
     {
       "trait_type": "Verification",
