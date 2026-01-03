@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Marshmello — Miles on It on 1/2/2026",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/cf8c032851899913f1fe2d27d6182496.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Marshmello"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Miles on It"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "1/2/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
