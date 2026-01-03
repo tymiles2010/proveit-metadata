@@ -1,15 +1,15 @@
 {
   "name": "prove.it #3",
-  "description": "Proof of 90%+ completion: The Lumineers — Ho Hey on 1/3/2026",
+  "description": "Proof of 90%+ completion: Abe Parker — your fault on 1/3/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/3/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "The Lumineers"
+      "value": "Abe Parker"
     },
     {
       "trait_type": "Track",
-      "value": "Ho Hey"
+      "value": "your fault"
     },
     {
       "trait_type": "Completion Date",
