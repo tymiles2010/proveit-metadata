@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified #37",
-  "description": "Proof of 90%+ completion: Cameron Whitcomb — Medusa (Acoustic) on 12/30/2025",
-  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/images/37.png",
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Luke Combs — Fast Car on 12/21/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/22f361a4f203ec9cb25628ac260a1c0b.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Cameron Whitcomb"
+      "value": "Luke Combs"
     },
     {
       "trait_type": "Track",
-      "value": "Medusa (Acoustic)"
+      "value": "Fast Car"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/30/2025"
+      "value": "12/21/2025"
     },
     {
       "trait_type": "Verification",
