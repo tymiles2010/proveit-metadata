@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Cameron Whitcomb — The Hard Way on 12/31/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/394b723b5eb04c09242b1e222ff1d6d3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Cameron Whitcomb"
+    },
+    {
+      "trait_type": "Track",
+      "value": "The Hard Way"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/31/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
