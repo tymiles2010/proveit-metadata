@@ -1,0 +1,23 @@
+{
+  "name": "prove.it Verified",
+  "description": "Proof of 90%+ completion: Dylan Gossett — Lone Ole Cowboy on 12/30/2025",
+  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/832348b0a6798ee976537d1fe079b7dd.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Dylan Gossett"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Lone Ole Cowboy"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "12/30/2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
