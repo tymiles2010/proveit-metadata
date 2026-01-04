@@ -1,15 +1,15 @@
 {
   "name": "prove.it #11",
-  "description": "Proof of 90%+ completion: Daniel Seavey — Sleeping With The Lights On on 1/3/2026",
+  "description": "Proof of 90%+ completion: Drake — One Dance on 1/3/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/11/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Daniel Seavey"
+      "value": "Drake"
     },
     {
       "trait_type": "Track",
-      "value": "Sleeping With The Lights On"
+      "value": "One Dance"
     },
     {
       "trait_type": "Completion Date",
