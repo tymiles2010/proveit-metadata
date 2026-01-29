@@ -1,7 +1,7 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Adrien Nunez — LOW ROAD (feat. Avery Anna) on 12/23/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+  "name": "prove.it #46",
+  "description": "Proof of 90%+ completion: Adrien Nunez — DON'T WANNA GO HOME on 1/8/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/46/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Track",
-      "value": "LOW ROAD (feat. Avery Anna)"
+      "value": "DON'T WANNA GO HOME"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/23/2025"
+      "value": "1/8/2026"
     },
     {
       "trait_type": "Verification",
