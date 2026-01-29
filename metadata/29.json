@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Mumford & Sons — Prizefighter on 12/22/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/d21eef8f9c242a6fa57fa455ea681424.jpg",
+  "name": "prove.it #29",
+  "description": "Proof of 90%+ completion: Shaboozey — All Men Die (Freestyle) on 1/8/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/29/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Mumford & Sons"
+      "value": "Shaboozey"
     },
     {
       "trait_type": "Track",
-      "value": "Prizefighter"
+      "value": "All Men Die (Freestyle)"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/22/2025"
+      "value": "1/8/2026"
     },
     {
       "trait_type": "Verification",
