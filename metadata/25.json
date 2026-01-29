@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Alex Warren — Save You A Seat on 12/22/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/4f1db0a6b971f9d5c02f3405bea09adb.jpg",
+  "name": "prove.it #25",
+  "description": "Proof of 90%+ completion: Jonah Kagen — God Needs The Devil on 1/8/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/25/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Alex Warren"
+      "value": "Jonah Kagen"
     },
     {
       "trait_type": "Track",
-      "value": "Save You A Seat"
+      "value": "God Needs The Devil"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/22/2025"
+      "value": "1/8/2026"
     },
     {
       "trait_type": "Verification",
