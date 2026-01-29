@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Obscurest Vinyl — The Secrets Your Asshole Keeps on 12/30/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/49d00054cf1c0f91f8f72b2da56d28fd.jpg",
+  "name": "prove.it #73",
+  "description": "Proof of 90%+ completion: John Mellencamp — Hurts So Good on 1/15/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/73/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Obscurest Vinyl"
+      "value": "John Mellencamp"
     },
     {
       "trait_type": "Track",
-      "value": "The Secrets Your Asshole Keeps"
+      "value": "Hurts So Good"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/30/2025"
+      "value": "1/15/2026"
     },
     {
       "trait_type": "Verification",
