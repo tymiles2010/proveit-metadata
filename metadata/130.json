@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Morgan Wallen — Thinkin’ Bout Me on 12/31/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/a520e6f22d11e55fba4846ae64b9f523.png",
+  "name": "prove.it #130",
+  "description": "Proof of 90%+ completion: BabyJake — Do I Fit In Your Shoes? on 1/24/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/130/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Morgan Wallen"
+      "value": "BabyJake"
     },
     {
       "trait_type": "Track",
-      "value": "Thinkin’ Bout Me"
+      "value": "Do I Fit In Your Shoes?"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "1/24/2026"
     },
     {
       "trait_type": "Verification",
