@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Evan Honer — My Expense on 12/31/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/d5e06125641931f866f92a97b4556ebb.png",
+  "name": "prove.it #118",
+  "description": "Proof of 90%+ completion: Tai Verdes — Stuck in the Middle on 1/24/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/118/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Evan Honer"
+      "value": "Tai Verdes"
     },
     {
       "trait_type": "Track",
-      "value": "My Expense"
+      "value": "Stuck in the Middle"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "1/24/2026"
     },
     {
       "trait_type": "Verification",
