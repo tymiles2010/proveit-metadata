@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Cameron Whitcomb — Rocking Chair on 12/29/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/4ee72de998ddb14255c7faa8287ba1a2.jpg",
+  "name": "prove.it #65",
+  "description": "Proof of 90%+ completion: Rosé — APT. on 1/10/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/65/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Cameron Whitcomb"
+      "value": "Rosé"
     },
     {
       "trait_type": "Track",
-      "value": "Rocking Chair"
+      "value": "APT."
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/29/2025"
+      "value": "1/10/2026"
     },
     {
       "trait_type": "Verification",
