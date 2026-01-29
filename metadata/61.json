@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Tyler Hubbard — 5 Foot 9 on 12/28/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/d5251166a81247f65fd5cc60ae5831e9.png",
+  "name": "prove.it #61",
+  "description": "Proof of 90%+ completion: Bryce Vine — Drew Barrymore on 1/10/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/61/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Tyler Hubbard"
+      "value": "Bryce Vine"
     },
     {
       "trait_type": "Track",
-      "value": "5 Foot 9"
+      "value": "Drew Barrymore"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/28/2025"
+      "value": "1/10/2026"
     },
     {
       "trait_type": "Verification",
