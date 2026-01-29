@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: HONESTAV — Growin' Pains on 12/29/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/d4d2d27a176a25c0a0f1930036363269.jpg",
+  "name": "prove.it #62",
+  "description": "Proof of 90%+ completion: Bryce Vine — La La Land on 1/10/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/62/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "HONESTAV"
+      "value": "Bryce Vine"
     },
     {
       "trait_type": "Track",
-      "value": "Growin' Pains"
+      "value": "La La Land"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/29/2025"
+      "value": "1/10/2026"
     },
     {
       "trait_type": "Verification",
