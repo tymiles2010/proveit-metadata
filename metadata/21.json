@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Luke Combs — Fast Car on 12/21/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/22f361a4f203ec9cb25628ac260a1c0b.png",
+  "name": "prove.it #21",
+  "description": "Proof of 90%+ completion: Shaboozey — Highway on 1/8/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/21/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Luke Combs"
+      "value": "Shaboozey"
     },
     {
       "trait_type": "Track",
-      "value": "Fast Car"
+      "value": "Highway"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/21/2025"
+      "value": "1/8/2026"
     },
     {
       "trait_type": "Verification",
