@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Hayden Blount — Heaven On Earth on 12/26/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/02fcbf0755dd988b47686ee56da2d097.jpg",
+  "name": "prove.it #56",
+  "description": "Proof of 90%+ completion: Sawyer Brown — Six Days On The Road on 1/8/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/56/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Hayden Blount"
+      "value": "Sawyer Brown"
     },
     {
       "trait_type": "Track",
-      "value": "Heaven On Earth"
+      "value": "Six Days On The Road"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/26/2025"
+      "value": "1/8/2026"
     },
     {
       "trait_type": "Verification",
