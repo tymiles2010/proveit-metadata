@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Zach Bryan — Nine Ball on 12/31/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/477a0362bfef265afc960fb827d6f0ef.jpg",
+  "name": "prove.it #120",
+  "description": "Proof of 90%+ completion: Arden Jones — Parallel Parking on 1/24/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/120/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Zach Bryan"
+      "value": "Arden Jones"
     },
     {
       "trait_type": "Track",
-      "value": "Nine Ball"
+      "value": "Parallel Parking"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "1/24/2026"
     },
     {
       "trait_type": "Verification",
