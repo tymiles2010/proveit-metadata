@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Train — Drops of Jupiter (Tell Me) on 12/31/2025",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/cc856555fab492a0cdad871d491fa792.jpg",
+  "name": "prove.it #123",
+  "description": "Proof of 90%+ completion: young friend — PINCH ME on 1/24/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/123/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Train"
+      "value": "young friend"
     },
     {
       "trait_type": "Track",
-      "value": "Drops of Jupiter (Tell Me)"
+      "value": "PINCH ME"
     },
     {
       "trait_type": "Completion Date",
-      "value": "12/31/2025"
+      "value": "1/24/2026"
     },
     {
       "trait_type": "Verification",
