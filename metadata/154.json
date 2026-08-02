@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Happier on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/dba9c34146d9a7859a0fc6887693ceea.jpg",
+  "name": "prove.it #154",
+  "description": "Proof of 90%+ completion: Drew Green — Lotta Bit of You on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/154/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Marshmello"
+      "value": "Drew Green"
     },
     {
       "trait_type": "Track",
-      "value": "Happier"
+      "value": "Lotta Bit of You"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
