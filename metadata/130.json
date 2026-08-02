@@ -1,23 +1,23 @@
 {
   "name": "prove.it #130",
-  "description": "Proof of 90%+ completion: David Morris — Backroad to Heaven on 7/17/2026",
+  "description": "Verified Listen: Boots & Beers — SHE GOT A COWBOY ON A LASSO on 7/18/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/130/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "David Morris"
+      "value": "Boots & Beers"
     },
     {
       "trait_type": "Track",
-      "value": "Backroad to Heaven"
+      "value": "SHE GOT A COWBOY ON A LASSO"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "7/17/2026"
+      "trait_type": "Listen Date",
+      "value": "7/18/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
