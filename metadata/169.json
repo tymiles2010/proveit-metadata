@@ -1,23 +1,23 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Blake Whiten — Rollin' Stone on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/bbe2cebad6442623c3e75cc890f25607.jpg",
+  "name": "prove.it #169",
+  "description": "Verified Listen: VibeStudios — Many Men - Americana Country on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/169/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Blake Whiten"
+      "value": "VibeStudios"
     },
     {
       "trait_type": "Track",
-      "value": "Rollin' Stone"
+      "value": "Many Men - Americana Country"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
