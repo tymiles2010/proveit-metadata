@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Silence on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/da338fdd8d3b70176c7f8b2ed7bb1873.jpg",
+  "name": "prove.it #173",
+  "description": "Proof of 90%+ completion: Zac Brown Band — Toes on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/173/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Marshmello"
+      "value": "Zac Brown Band"
     },
     {
       "trait_type": "Track",
-      "value": "Silence"
+      "value": "Toes"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
