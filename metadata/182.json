@@ -1,23 +1,23 @@
 {
   "name": "prove.it #182",
-  "description": "Proof of 90%+ completion: VibeStudios — Many Men - Americana Country on 7/25/2026",
+  "description": "Verified Listen: Joe Diffie — Pickup Man on 7/26/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/182/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "VibeStudios"
+      "value": "Joe Diffie"
     },
     {
       "trait_type": "Track",
-      "value": "Many Men - Americana Country"
+      "value": "Pickup Man"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "7/25/2026"
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
