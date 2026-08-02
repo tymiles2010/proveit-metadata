@@ -1,23 +1,23 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Miles on It on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/cf8c032851899913f1fe2d27d6182496.jpg",
+  "name": "prove.it #158",
+  "description": "Verified Listen: The Chicks — Travelin' Soldier on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/158/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Marshmello"
+      "value": "The Chicks"
     },
     {
       "trait_type": "Track",
-      "value": "Miles on It"
+      "value": "Travelin' Soldier"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
