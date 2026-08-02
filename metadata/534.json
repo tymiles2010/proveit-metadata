@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #534",
+  "description": "Verified Listen: AJR — Bang! on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/534/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "AJR"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Bang!"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
