@@ -1,19 +1,19 @@
 {
   "name": "prove.it #50",
-  "description": "Proof of 90%+ completion: Zach Bryan — I Remember Everything (feat. Kacey Musgraves) on 1/8/2026",
+  "description": "Proof of 90%+ completion: mgk — ay! (feat. Lil Wayne) on 6/30/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/50/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Zach Bryan"
+      "value": "mgk"
     },
     {
       "trait_type": "Track",
-      "value": "I Remember Everything (feat. Kacey Musgraves)"
+      "value": "ay! (feat. Lil Wayne)"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/8/2026"
+      "value": "6/30/2026"
     },
     {
       "trait_type": "Verification",
