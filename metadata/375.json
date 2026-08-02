@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #375",
+  "description": "Verified Listen: Nathan Evans — Ring Ding (A Scotsman's Story) on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/375/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Nathan Evans"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Ring Ding (A Scotsman's Story)"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
