@@ -1,23 +1,23 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: GABBY'S DOLLHOUSE — Sprinkle Party on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/ed7680611fe022f45122fc1bdd6a107c.jpg",
+  "name": "prove.it #146",
+  "description": "Verified Listen: Turbo — Bo Exotic on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/146/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "GABBY'S DOLLHOUSE"
+      "value": "Turbo"
     },
     {
       "trait_type": "Track",
-      "value": "Sprinkle Party"
+      "value": "Bo Exotic"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
