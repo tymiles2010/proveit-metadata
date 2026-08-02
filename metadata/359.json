@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #359",
+  "description": "Verified Listen: Michael Peterson — Drink, Swear, Steal & Lie on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/359/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Michael Peterson"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Drink, Swear, Steal & Lie"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
