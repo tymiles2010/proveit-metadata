@@ -1,23 +1,23 @@
 {
   "name": "prove.it #176",
-  "description": "Proof of 90%+ completion: Uncle Lucius — Keep the Wolves Away on 7/25/2026",
+  "description": "Verified Listen: Michael Peterson — Drink, Swear, Steal & Lie on 7/26/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/176/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Uncle Lucius"
+      "value": "Michael Peterson"
     },
     {
       "trait_type": "Track",
-      "value": "Keep the Wolves Away"
+      "value": "Drink, Swear, Steal & Lie"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "7/25/2026"
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
