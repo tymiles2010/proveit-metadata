@@ -1,19 +1,19 @@
 {
   "name": "prove.it #106",
-  "description": "Proof of 90%+ completion: BabyJake — Head In The Clouds on 1/23/2026",
+  "description": "Proof of 90%+ completion: Little Big Town — Wine, Beer, Whiskey on 7/16/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/106/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "BabyJake"
+      "value": "Little Big Town"
     },
     {
       "trait_type": "Track",
-      "value": "Head In The Clouds"
+      "value": "Wine, Beer, Whiskey"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/23/2026"
+      "value": "7/16/2026"
     },
     {
       "trait_type": "Verification",
