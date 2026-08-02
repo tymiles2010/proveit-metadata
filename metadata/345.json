@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #345",
+  "description": "Verified Listen: Oliver Anthony Music — Rich Men North of Richmond on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/345/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Oliver Anthony Music"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Rich Men North of Richmond"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
