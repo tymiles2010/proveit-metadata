@@ -1,19 +1,19 @@
 {
   "name": "prove.it #65",
-  "description": "Proof of 90%+ completion: Rosé — APT. on 1/10/2026",
+  "description": "Proof of 90%+ completion: Morgan Wallen — Cowgirls on 7/9/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/65/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Rosé"
+      "value": "Morgan Wallen"
     },
     {
       "trait_type": "Track",
-      "value": "APT."
+      "value": "Cowgirls"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/10/2026"
+      "value": "7/9/2026"
     },
     {
       "trait_type": "Verification",
