@@ -1,6 +1,6 @@
 {
   "name": "prove.it #131",
-  "description": "Proof of 90%+ completion: Tom MacDonald — Clown World on 7/17/2026",
+  "description": "Verified Listen: Tom MacDonald — Can't Cancel All Of Us on 7/18/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/131/image.png",
   "attributes": [
     {
@@ -9,15 +9,15 @@
     },
     {
       "trait_type": "Track",
-      "value": "Clown World"
+      "value": "Can't Cancel All Of Us"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "7/17/2026"
+      "trait_type": "Listen Date",
+      "value": "7/18/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
