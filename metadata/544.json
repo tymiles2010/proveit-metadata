@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #544",
+  "description": "Verified Listen: Neal McCoy — No Doubt About It on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/544/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Neal McCoy"
+    },
+    {
+      "trait_type": "Track",
+      "value": "No Doubt About It"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
