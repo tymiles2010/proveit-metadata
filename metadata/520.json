@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #520",
+  "description": "Verified Listen: Morgan Wallen — The Way I Talk on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/520/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Morgan Wallen"
+    },
+    {
+      "trait_type": "Track",
+      "value": "The Way I Talk"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
