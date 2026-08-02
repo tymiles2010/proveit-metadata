@@ -1,23 +1,23 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Holy Water on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/017900f54c30cc60a82137a42c3027fa.jpg",
+  "name": "prove.it #180",
+  "description": "Verified Listen: Chayce Beckham — 23 on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/180/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Marshmello"
+      "value": "Chayce Beckham"
     },
     {
       "trait_type": "Track",
-      "value": "Holy Water"
+      "value": "23"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
