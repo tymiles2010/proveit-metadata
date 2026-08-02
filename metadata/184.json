@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Imagine Dragons — Believer on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/8c77e9f509c4dd3bca8d3ac6b5344ce5.png",
+  "name": "prove.it #184",
+  "description": "Proof of 90%+ completion: Dylan Marlowe — Boys Back Home on 7/26/2026",
+  "image": "https://via.placeholder.com/800?text=prove.it+Badge",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Imagine Dragons"
+      "value": "Dylan Marlowe"
     },
     {
       "trait_type": "Track",
-      "value": "Believer"
+      "value": "Boys Back Home"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/26/2026"
     },
     {
       "trait_type": "Verification",
