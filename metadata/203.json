@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #203",
+  "description": "Proof of 90%+ completion: Stephen Wilson Jr. — kid on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/203/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Stephen Wilson Jr."
+    },
+    {
+      "trait_type": "Track",
+      "value": "kid"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
