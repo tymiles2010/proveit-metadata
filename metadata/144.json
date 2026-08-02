@@ -1,23 +1,23 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: KIDZ BOP Kids — Memories on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/673dd9cca5f405fae0c86c99fcba72d5.jpg",
+  "name": "prove.it #144",
+  "description": "Verified Listen: Drew Green — Lotta Bit of You on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/144/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "KIDZ BOP Kids"
+      "value": "Drew Green"
     },
     {
       "trait_type": "Track",
-      "value": "Memories"
+      "value": "Lotta Bit of You"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
