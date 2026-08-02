@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #328",
+  "description": "Verified Listen: Austin Williams — 90s Rap Mashup on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/328/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Austin Williams"
+    },
+    {
+      "trait_type": "Track",
+      "value": "90s Rap Mashup"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
