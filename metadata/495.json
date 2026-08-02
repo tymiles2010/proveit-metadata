@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #495",
+  "description": "Verified Listen: DAX — Big Boys Don't Cry on 7/18/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/495/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "DAX"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Big Boys Don't Cry"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/18/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
