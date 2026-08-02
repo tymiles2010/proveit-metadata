@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #529",
+  "description": "Verified Listen: Sam Barber — Straight and Narrow on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/529/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Sam Barber"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Straight and Narrow"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
