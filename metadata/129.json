@@ -1,23 +1,23 @@
 {
   "name": "prove.it #129",
-  "description": "Proof of 90%+ completion: Reddy Redd — Hero on 7/17/2026",
+  "description": "Verified Listen: DAX — Big Boys Don't Cry on 7/18/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/129/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Reddy Redd"
+      "value": "DAX"
     },
     {
       "trait_type": "Track",
-      "value": "Hero"
+      "value": "Big Boys Don't Cry"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "7/17/2026"
+      "trait_type": "Listen Date",
+      "value": "7/18/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
