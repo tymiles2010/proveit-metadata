@@ -1,23 +1,23 @@
 {
   "name": "prove.it #128",
-  "description": "Proof of 90%+ completion: Masked Wolf — Thief In The Night (feat. Kevin Gates) on 7/17/2026",
+  "description": "Verified Listen: Lil Man J — Everybody Loves Jack on 7/18/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/128/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Masked Wolf"
+      "value": "Lil Man J"
     },
     {
       "trait_type": "Track",
-      "value": "Thief In The Night (feat. Kevin Gates)"
+      "value": "Everybody Loves Jack"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "7/17/2026"
+      "trait_type": "Listen Date",
+      "value": "7/18/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
