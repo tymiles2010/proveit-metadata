@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #364",
+  "description": "Verified Listen: Collin Raye — My Kind Of Girl on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/364/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Collin Raye"
+    },
+    {
+      "trait_type": "Track",
+      "value": "My Kind Of Girl"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
