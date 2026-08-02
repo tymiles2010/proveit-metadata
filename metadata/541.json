@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #541",
+  "description": "Verified Listen: Quinn XCII — Best Day on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/541/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Quinn XCII"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Best Day"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
