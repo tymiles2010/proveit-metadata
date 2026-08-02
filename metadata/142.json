@@ -1,23 +1,23 @@
 {
   "name": "prove.it #142",
-  "description": "Proof of 90%+ completion: Post Malone — Sunflower - Spider-Man: Into the Spider-Verse on 7/25/2026",
+  "description": "Verified Listen: Loud Luxury — I'm Not Alright on 7/25/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/142/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Post Malone"
+      "value": "Loud Luxury"
     },
     {
       "trait_type": "Track",
-      "value": "Sunflower - Spider-Man: Into the Spider-Verse"
+      "value": "I'm Not Alright"
     },
     {
-      "trait_type": "Completion Date",
+      "trait_type": "Listen Date",
       "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
