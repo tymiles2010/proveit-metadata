@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #377",
+  "description": "Verified Listen: Morgan Wallen — Ain’t That Some on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/377/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Morgan Wallen"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Ain’t That Some"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
