@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #357",
+  "description": "Verified Listen: BlackHawk — Every Once In a While on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/357/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "BlackHawk"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Every Once In a While"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
