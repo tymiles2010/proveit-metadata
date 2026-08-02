@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Fuerza Regida — HARLEY QUINN on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/0bcbf7c75cb9cbb1dbbf01dec7177b19.jpg",
+  "name": "prove.it #176",
+  "description": "Proof of 90%+ completion: Uncle Lucius — Keep the Wolves Away on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/176/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Fuerza Regida"
+      "value": "Uncle Lucius"
     },
     {
       "trait_type": "Track",
-      "value": "HARLEY QUINN"
+      "value": "Keep the Wolves Away"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
