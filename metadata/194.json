@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #194",
+  "description": "Proof of 90%+ completion: Collin Raye — My Kind Of Girl on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/194/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Collin Raye"
+    },
+    {
+      "trait_type": "Track",
+      "value": "My Kind Of Girl"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
