@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Here With Me on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/7fde5ee4470cc150c8582b9756aff189.jpg",
+  "name": "prove.it #181",
+  "description": "Proof of 90%+ completion: AJR — Bang! on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/181/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Marshmello"
+      "value": "AJR"
     },
     {
       "trait_type": "Track",
-      "value": "Here With Me"
+      "value": "Bang!"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
