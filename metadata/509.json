@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #509",
+  "description": "Verified Listen: Adrien Nunez — LOW ROAD (feat. Avery Anna) on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/509/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Adrien Nunez"
+    },
+    {
+      "trait_type": "Track",
+      "value": "LOW ROAD (feat. Avery Anna)"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
