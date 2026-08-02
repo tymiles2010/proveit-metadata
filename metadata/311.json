@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #311",
+  "description": "Verified Listen: Lil Man J — Everybody Loves Jack on 7/18/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/311/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Lil Man J"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Everybody Loves Jack"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/18/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
