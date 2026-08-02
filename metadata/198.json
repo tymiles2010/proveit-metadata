@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #198",
+  "description": "Proof of 90%+ completion: Max McNown — A Lot More Free on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/198/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Max McNown"
+    },
+    {
+      "trait_type": "Track",
+      "value": "A Lot More Free"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
