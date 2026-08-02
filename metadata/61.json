@@ -1,19 +1,19 @@
 {
   "name": "prove.it #61",
-  "description": "Proof of 90%+ completion: Bryce Vine — Drew Barrymore on 1/10/2026",
+  "description": "Proof of 90%+ completion: Zach Bryan — Nine Ball on 7/9/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/61/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Bryce Vine"
+      "value": "Zach Bryan"
     },
     {
       "trait_type": "Track",
-      "value": "Drew Barrymore"
+      "value": "Nine Ball"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/10/2026"
+      "value": "7/9/2026"
     },
     {
       "trait_type": "Verification",
