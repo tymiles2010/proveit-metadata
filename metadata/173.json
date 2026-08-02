@@ -1,23 +1,23 @@
 {
   "name": "prove.it #173",
-  "description": "Proof of 90%+ completion: Zac Brown Band — Toes on 7/25/2026",
+  "description": "Verified Listen: Nathan Evans — Drunken Sailor on 7/26/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/173/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Zac Brown Band"
+      "value": "Nathan Evans"
     },
     {
       "trait_type": "Track",
-      "value": "Toes"
+      "value": "Drunken Sailor"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "7/25/2026"
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
