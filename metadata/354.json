@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #354",
+  "description": "Verified Listen: Dylan Marlowe — Boys Back Home on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/354/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Dylan Marlowe"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Boys Back Home"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
