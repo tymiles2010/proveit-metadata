@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #344",
+  "description": "Verified Listen: Zac Brown Band — Toes on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/344/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Zac Brown Band"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Toes"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
