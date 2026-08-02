@@ -1,19 +1,19 @@
 {
   "name": "prove.it #49",
-  "description": "Proof of 90%+ completion: Arctic Monkeys — 505 on 1/8/2026",
+  "description": "Proof of 90%+ completion: mgk — my ex's best friend (with blackbear) on 6/30/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/49/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Arctic Monkeys"
+      "value": "mgk"
     },
     {
       "trait_type": "Track",
-      "value": "505"
+      "value": "my ex's best friend (with blackbear)"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/8/2026"
+      "value": "6/30/2026"
     },
     {
       "trait_type": "Verification",
