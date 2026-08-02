@@ -1,23 +1,23 @@
 {
   "name": "prove.it #189",
-  "description": "Proof of 90%+ completion: Michael Peterson — Drink, Swear, Steal & Lie on 7/26/2026",
-  "image": "https://via.placeholder.com/800?text=prove.it+Badge",
+  "description": "Verified Listen: Stephen Wilson Jr. — kid on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/189/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Michael Peterson"
+      "value": "Stephen Wilson Jr."
     },
     {
       "trait_type": "Track",
-      "value": "Drink, Swear, Steal & Lie"
+      "value": "kid"
     },
     {
-      "trait_type": "Completion Date",
+      "trait_type": "Listen Date",
       "value": "7/26/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
