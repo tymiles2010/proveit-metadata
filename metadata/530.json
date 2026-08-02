@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #530",
+  "description": "Verified Listen: The Dead South — In Hell I'll Be in Good Company on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/530/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "The Dead South"
+    },
+    {
+      "trait_type": "Track",
+      "value": "In Hell I'll Be in Good Company"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
