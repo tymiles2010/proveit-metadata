@@ -1,23 +1,23 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: KIDZ BOP Kids — Dance Monkey on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/8386a1fdbb4a48e20a3c51317fc30e9f.jpg",
+  "name": "prove.it #145",
+  "description": "Verified Listen: Austin Williams — 90s Rap Mashup on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/145/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "KIDZ BOP Kids"
+      "value": "Austin Williams"
     },
     {
       "trait_type": "Track",
-      "value": "Dance Monkey"
+      "value": "90s Rap Mashup"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
