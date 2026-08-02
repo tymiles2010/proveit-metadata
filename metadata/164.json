@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Holy Water on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/017900f54c30cc60a82137a42c3027fa.jpg",
+  "name": "prove.it #164",
+  "description": "Proof of 90%+ completion: Morgan Wallen — The Way I Talk on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/164/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Marshmello"
+      "value": "Morgan Wallen"
     },
     {
       "trait_type": "Track",
-      "value": "Holy Water"
+      "value": "The Way I Talk"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
