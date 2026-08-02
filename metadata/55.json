@@ -1,19 +1,19 @@
 {
   "name": "prove.it #55",
-  "description": "Proof of 90%+ completion: Wailing Souls — Shark Attack on 1/8/2026",
+  "description": "Proof of 90%+ completion: Shakira — Waka Waka (This Time For Africa) - K-Mix on 7/2/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/55/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Wailing Souls"
+      "value": "Shakira"
     },
     {
       "trait_type": "Track",
-      "value": "Shark Attack"
+      "value": "Waka Waka (This Time For Africa) - K-Mix"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/8/2026"
+      "value": "7/2/2026"
     },
     {
       "trait_type": "Verification",
