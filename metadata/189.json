@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #189",
+  "description": "Proof of 90%+ completion: Michael Peterson — Drink, Swear, Steal & Lie on 7/26/2026",
+  "image": "https://via.placeholder.com/800?text=prove.it+Badge",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Michael Peterson"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Drink, Swear, Steal & Lie"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
