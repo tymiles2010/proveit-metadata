@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #548",
+  "description": "Verified Listen: Joe Diffie — Pickup Man on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/548/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Joe Diffie"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Pickup Man"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
