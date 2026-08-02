@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #536",
+  "description": "Verified Listen: Stephen Wilson Jr. — kid on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/536/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Stephen Wilson Jr."
+    },
+    {
+      "trait_type": "Track",
+      "value": "kid"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
