@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #313",
+  "description": "Verified Listen: Boots & Beers — SHE GOT A COWBOY ON A LASSO on 7/18/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/313/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Boots & Beers"
+    },
+    {
+      "trait_type": "Track",
+      "value": "SHE GOT A COWBOY ON A LASSO"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/18/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
