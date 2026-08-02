@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Happier on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/dba9c34146d9a7859a0fc6887693ceea.jpg",
+  "name": "prove.it #170",
+  "description": "Proof of 90%+ completion: Eslabon Armado — Ella Baila Sola on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/170/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Marshmello"
+      "value": "Eslabon Armado"
     },
     {
       "trait_type": "Track",
-      "value": "Happier"
+      "value": "Ella Baila Sola"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
