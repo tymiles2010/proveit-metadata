@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Blake Whiten — Rollin' Stone on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/bbe2cebad6442623c3e75cc890f25607.jpg",
+  "name": "prove.it #185",
+  "description": "Proof of 90%+ completion: Clay Walker — If I Could Make A Living on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/185/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Blake Whiten"
+      "value": "Clay Walker"
     },
     {
       "trait_type": "Track",
-      "value": "Rollin' Stone"
+      "value": "If I Could Make A Living"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/26/2026"
     },
     {
       "trait_type": "Verification",
