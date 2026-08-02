@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #343",
+  "description": "Verified Listen: Obscurest Vinyl — I Glued My Balls to My Butthole Again on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/343/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Obscurest Vinyl"
+    },
+    {
+      "trait_type": "Track",
+      "value": "I Glued My Balls to My Butthole Again"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
