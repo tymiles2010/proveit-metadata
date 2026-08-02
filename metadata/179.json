@@ -1,23 +1,23 @@
 {
   "name": "prove.it #179",
-  "description": "Proof of 90%+ completion: Zach Bryan — Oklahoma Smokeshow on 7/25/2026",
+  "description": "Verified Listen: Casey Donahew — Double-Wide Dream on 7/26/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/179/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Zach Bryan"
+      "value": "Casey Donahew"
     },
     {
       "trait_type": "Track",
-      "value": "Oklahoma Smokeshow"
+      "value": "Double-Wide Dream"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "7/25/2026"
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
