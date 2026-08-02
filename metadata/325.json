@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #325",
+  "description": "Verified Listen: Loud Luxury — I'm Not Alright on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/325/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Loud Luxury"
+    },
+    {
+      "trait_type": "Track",
+      "value": "I'm Not Alright"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
