@@ -1,19 +1,19 @@
 {
   "name": "prove.it #32",
-  "description": "Proof of 90%+ completion: HUNTR/X — What It Sounds Like on 1/8/2026",
+  "description": "Proof of 90%+ completion: Tom MacDonald — Dear Slim on 6/27/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/32/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "HUNTR/X"
+      "value": "Tom MacDonald"
     },
     {
       "trait_type": "Track",
-      "value": "What It Sounds Like"
+      "value": "Dear Slim"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/8/2026"
+      "value": "6/27/2026"
     },
     {
       "trait_type": "Verification",
