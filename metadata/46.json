@@ -1,19 +1,19 @@
 {
   "name": "prove.it #46",
-  "description": "Proof of 90%+ completion: Adrien Nunez — DON'T WANNA GO HOME on 1/8/2026",
+  "description": "Proof of 90%+ completion: Morgan Wallen — Last Night on 6/30/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/46/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Adrien Nunez"
+      "value": "Morgan Wallen"
     },
     {
       "trait_type": "Track",
-      "value": "DON'T WANNA GO HOME"
+      "value": "Last Night"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/8/2026"
+      "value": "6/30/2026"
     },
     {
       "trait_type": "Verification",
