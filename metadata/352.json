@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #352",
+  "description": "Verified Listen: VibeStudios — Many Men - Americana Country on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/352/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "VibeStudios"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Many Men - Americana Country"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
