@@ -1,23 +1,23 @@
 {
   "name": "prove.it #193",
-  "description": "Proof of 90%+ completion: Chayce Beckham — 23 on 7/26/2026",
-  "image": "https://via.placeholder.com/800?text=prove.it+Badge",
+  "description": "Verified Listen: Nathan Evans — Told You So on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/193/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Chayce Beckham"
+      "value": "Nathan Evans"
     },
     {
       "trait_type": "Track",
-      "value": "23"
+      "value": "Told You So"
     },
     {
-      "trait_type": "Completion Date",
+      "trait_type": "Listen Date",
       "value": "7/26/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
