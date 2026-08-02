@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #545",
+  "description": "Verified Listen: Casey Donahew — Double-Wide Dream on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/545/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Casey Donahew"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Double-Wide Dream"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
