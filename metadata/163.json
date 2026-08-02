@@ -1,23 +1,23 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Stars on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/7e81f8b010a7bca6489663e7f96def76.jpg",
+  "name": "prove.it #163",
+  "description": "Verified Listen: Sam Barber — Straight and Narrow on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/163/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Marshmello"
+      "value": "Sam Barber"
     },
     {
       "trait_type": "Track",
-      "value": "Stars"
+      "value": "Straight and Narrow"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
