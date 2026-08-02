@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #380",
+  "description": "Verified Listen: Benson Boone — Beautiful Things on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/380/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Benson Boone"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Beautiful Things"
+    },
+    {
+      "trait_type": "Listen Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Last.fm Scrobble Verified"
+    }
+  ]
+}
