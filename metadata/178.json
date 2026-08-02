@@ -1,19 +1,19 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Selena Gomez — Wolves on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/243937f3de546bb46366bc4144b44403.jpg",
+  "name": "prove.it #178",
+  "description": "Proof of 90%+ completion: Colter Wall — Sleeping on the Blacktop on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/178/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Selena Gomez"
+      "value": "Colter Wall"
     },
     {
       "trait_type": "Track",
-      "value": "Wolves"
+      "value": "Sleeping on the Blacktop"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
