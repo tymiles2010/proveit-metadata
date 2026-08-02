@@ -1,23 +1,23 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Here With Me on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/7fde5ee4470cc150c8582b9756aff189.jpg",
+  "name": "prove.it #165",
+  "description": "Verified Listen: Colter Wall — Sleeping on the Blacktop on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/165/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Marshmello"
+      "value": "Colter Wall"
     },
     {
       "trait_type": "Track",
-      "value": "Here With Me"
+      "value": "Sleeping on the Blacktop"
     },
     {
-      "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "trait_type": "Listen Date",
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
