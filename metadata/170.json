@@ -1,23 +1,23 @@
 {
   "name": "prove.it #170",
-  "description": "Proof of 90%+ completion: Eslabon Armado — Ella Baila Sola on 7/25/2026",
+  "description": "Verified Listen: Stephen Wilson Jr. — kid on 7/25/2026",
   "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/170/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
-      "value": "Eslabon Armado"
+      "value": "Stephen Wilson Jr."
     },
     {
       "trait_type": "Track",
-      "value": "Ella Baila Sola"
+      "value": "kid"
     },
     {
-      "trait_type": "Completion Date",
+      "trait_type": "Listen Date",
       "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
-      "value": "90%+ Completed"
+      "value": "Last.fm Scrobble Verified"
     }
   ]
 }
