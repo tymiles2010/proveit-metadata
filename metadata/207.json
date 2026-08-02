@@ -1,0 +1,23 @@
+{
+  "name": "prove.it #207",
+  "description": "Proof of 90%+ completion: Nathan Evans — Ring Ding (A Scotsman's Story) on 7/26/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/207/image.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Nathan Evans"
+    },
+    {
+      "trait_type": "Track",
+      "value": "Ring Ding (A Scotsman's Story)"
+    },
+    {
+      "trait_type": "Completion Date",
+      "value": "7/26/2026"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "90%+ Completed"
+    }
+  ]
+}
