@@ -1,7 +1,7 @@
 {
-  "name": "prove.it Verified",
-  "description": "Proof of 90%+ completion: Marshmello — Numb on 1/2/2026",
-  "image": "https://lastfm.freetls.fastly.net/i/u/300x300/e8b7d0eb39ed42e11d9d4c5e42293d74.jpg",
+  "name": "prove.it #166",
+  "description": "Proof of 90%+ completion: Marshmello — Here With Me on 7/25/2026",
+  "image": "https://raw.githubusercontent.com/tymiles2010/proveit-metadata/main/badges/166/image.png",
   "attributes": [
     {
       "trait_type": "Artist",
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Track",
-      "value": "Numb"
+      "value": "Here With Me"
     },
     {
       "trait_type": "Completion Date",
-      "value": "1/2/2026"
+      "value": "7/25/2026"
     },
     {
       "trait_type": "Verification",
